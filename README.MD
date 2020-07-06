@@ -2,8 +2,6 @@
 * * *
 
 This is a console application developed for creating a phone directory using BST (binary search tree) data structure. It has a text file as a database from where it fetches (in alphabetical order) and stores the new numbers in the format as __Name PhoneNumber Email__.
-<br>
-<br>
 
 
 ### :camera: Screenshots
@@ -19,7 +17,6 @@ This is a console application developed for creating a phone directory using BST
          <td><img height="180" width="280" src="https://i.imgur.com/pM0cKvm.png" /><br /><center><b>Last number in DB</b></center></td>
        </tr>
 </table>
-<br>
 
 ### :star: Fetaures
 * * *
@@ -29,15 +26,11 @@ This is a console application developed for creating a phone directory using BST
 4. It can return the information of first contact stored in database.
 5. It can return the information of last contact stored in database.
 
-<br>
-
 ### :satellite: Technology Stack
 * * *
 - Java 
 - Visual Studio (Any IDE even the Vim is enough)
 - Text editor
-
-<br>
 
 ### :wrench: How to build
 * * *
