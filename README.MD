@@ -1,7 +1,7 @@
 ## Phone Directory
 * * *
-<br>
-This is a console application developed for creating a phone directory using BST (binary search tree) data structure. It has a text file as a database from where it fetches (in alphabetical order) and stores the new numbers in the format as **Name** .
+
+This is a console application developed for creating a phone directory using BST (binary search tree) data structure. It has a text file as a database from where it fetches (in alphabetical order) and stores the new numbers in the format as __Name PhoneNumber Email__.
 <br>
 <br>
 
